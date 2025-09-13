@@ -1,0 +1,2531 @@
+{
+  "extractionInfo": {
+    "pdfFilename": "_OceanofPDF.com_Hell_Difficulty_Tutorial_2_A_LitRPG_Adventure_-_Cerim.pdf",
+    "totalPages": 648,
+    "extractionDate": "2025-09-13T15:15:38.287Z",
+    "processingTime": "0:01",
+    "totalImages": 168
+  },
+  "images": [
+    {
+      "filename": "image-000.jpg",
+      "page": 1,
+      "sizeBytes": 1774476,
+      "dimensions": {
+        "width": 1358,
+        "height": 1920,
+        "aspectRatio": 0.71
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-001.jpg",
+      "page": 2,
+      "sizeBytes": 213393,
+      "dimensions": {
+        "width": 1200,
+        "height": 1842,
+        "aspectRatio": 0.65
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-002.jpg",
+      "page": 3,
+      "sizeBytes": 140428,
+      "dimensions": {
+        "width": 600,
+        "height": 600,
+        "aspectRatio": 1
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-003.jpg",
+      "page": 4,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-004.jpg",
+      "page": 5,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-005.jpg",
+      "page": 6,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-006.jpg",
+      "page": 7,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-007.jpg",
+      "page": 8,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-008.jpg",
+      "page": 9,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-009.jpg",
+      "page": 10,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-010.jpg",
+      "page": 11,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-011.jpg",
+      "page": 12,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-012.jpg",
+      "page": 13,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-013.jpg",
+      "page": 14,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-014.jpg",
+      "page": 15,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-015.jpg",
+      "page": 16,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-016.jpg",
+      "page": 17,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-017.jpg",
+      "page": 18,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-018.jpg",
+      "page": 19,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-019.jpg",
+      "page": 20,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-020.jpg",
+      "page": 21,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-021.jpg",
+      "page": 22,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-022.jpg",
+      "page": 23,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-023.jpg",
+      "page": 24,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-024.jpg",
+      "page": 25,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-025.jpg",
+      "page": 26,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-026.jpg",
+      "page": 27,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-027.jpg",
+      "page": 28,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-028.jpg",
+      "page": 29,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-029.jpg",
+      "page": 30,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-030.jpg",
+      "page": 31,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-031.jpg",
+      "page": 32,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-032.jpg",
+      "page": 33,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-033.jpg",
+      "page": 34,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-034.jpg",
+      "page": 35,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-035.jpg",
+      "page": 36,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-036.jpg",
+      "page": 37,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-037.jpg",
+      "page": 38,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-038.jpg",
+      "page": 39,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-039.jpg",
+      "page": 40,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-040.jpg",
+      "page": 41,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-041.jpg",
+      "page": 42,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-042.jpg",
+      "page": 43,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-043.jpg",
+      "page": 44,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-044.jpg",
+      "page": 45,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-045.jpg",
+      "page": 46,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-046.jpg",
+      "page": 47,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-047.jpg",
+      "page": 48,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-048.jpg",
+      "page": 49,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-049.jpg",
+      "page": 50,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-050.jpg",
+      "page": 51,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-051.jpg",
+      "page": 52,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-052.jpg",
+      "page": 53,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-053.jpg",
+      "page": 54,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-054.jpg",
+      "page": 55,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-055.jpg",
+      "page": 56,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-056.jpg",
+      "page": 57,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-057.jpg",
+      "page": 58,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-058.jpg",
+      "page": 59,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-059.jpg",
+      "page": 60,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-060.jpg",
+      "page": 61,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-061.jpg",
+      "page": 62,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-062.jpg",
+      "page": 63,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-063.jpg",
+      "page": 64,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-064.jpg",
+      "page": 65,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-065.jpg",
+      "page": 66,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-066.jpg",
+      "page": 67,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-067.jpg",
+      "page": 68,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-068.jpg",
+      "page": 69,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-069.jpg",
+      "page": 70,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-070.jpg",
+      "page": 71,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-071.jpg",
+      "page": 72,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-072.jpg",
+      "page": 73,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-073.jpg",
+      "page": 74,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-074.jpg",
+      "page": 75,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-075.jpg",
+      "page": 76,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-076.jpg",
+      "page": 77,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-077.jpg",
+      "page": 78,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-078.jpg",
+      "page": 79,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-079.jpg",
+      "page": 80,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-080.jpg",
+      "page": 81,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-081.jpg",
+      "page": 82,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-082.jpg",
+      "page": 83,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-083.jpg",
+      "page": 84,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-084.jpg",
+      "page": 85,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-085.jpg",
+      "page": 86,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-086.jpg",
+      "page": 87,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-087.jpg",
+      "page": 88,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-088.jpg",
+      "page": 89,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-089.jpg",
+      "page": 90,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-090.jpg",
+      "page": 91,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-091.jpg",
+      "page": 92,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-092.jpg",
+      "page": 93,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-093.jpg",
+      "page": 94,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-094.jpg",
+      "page": 95,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-095.jpg",
+      "page": 96,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-096.jpg",
+      "page": 97,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-097.jpg",
+      "page": 98,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-098.jpg",
+      "page": 99,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-099.jpg",
+      "page": 100,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-100.jpg",
+      "page": 101,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-101.jpg",
+      "page": 102,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-102.jpg",
+      "page": 103,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-103.jpg",
+      "page": 104,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-104.jpg",
+      "page": 105,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-105.jpg",
+      "page": 106,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-106.jpg",
+      "page": 107,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-107.jpg",
+      "page": 108,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-108.jpg",
+      "page": 109,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-109.jpg",
+      "page": 110,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-110.jpg",
+      "page": 111,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-111.jpg",
+      "page": 112,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-112.jpg",
+      "page": 113,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-113.jpg",
+      "page": 114,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-114.jpg",
+      "page": 115,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-115.jpg",
+      "page": 116,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-116.jpg",
+      "page": 117,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-117.jpg",
+      "page": 118,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-118.jpg",
+      "page": 119,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-119.jpg",
+      "page": 120,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-120.jpg",
+      "page": 121,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-121.jpg",
+      "page": 122,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-122.jpg",
+      "page": 123,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-123.jpg",
+      "page": 124,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-124.jpg",
+      "page": 125,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-125.jpg",
+      "page": 126,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-126.jpg",
+      "page": 127,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-127.jpg",
+      "page": 128,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-128.jpg",
+      "page": 129,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-129.jpg",
+      "page": 130,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-130.jpg",
+      "page": 131,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-131.jpg",
+      "page": 132,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-132.jpg",
+      "page": 133,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-133.jpg",
+      "page": 134,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-134.jpg",
+      "page": 135,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-135.jpg",
+      "page": 136,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-136.jpg",
+      "page": 137,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-137.jpg",
+      "page": 138,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-138.jpg",
+      "page": 139,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-139.jpg",
+      "page": 140,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-140.jpg",
+      "page": 141,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-141.jpg",
+      "page": 142,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-142.jpg",
+      "page": 143,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-143.jpg",
+      "page": 144,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-144.jpg",
+      "page": 145,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-145.jpg",
+      "page": 146,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-146.jpg",
+      "page": 147,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-147.jpg",
+      "page": 148,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-148.jpg",
+      "page": 149,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-149.jpg",
+      "page": 150,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-150.jpg",
+      "page": 151,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-151.jpg",
+      "page": 152,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-152.jpg",
+      "page": 153,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-153.jpg",
+      "page": 154,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-154.jpg",
+      "page": 155,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-155.jpg",
+      "page": 156,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-156.jpg",
+      "page": 157,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-157.jpg",
+      "page": 158,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-158.jpg",
+      "page": 159,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-159.jpg",
+      "page": 160,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-160.jpg",
+      "page": 161,
+      "sizeBytes": 140428,
+      "dimensions": {
+        "width": 600,
+        "height": 600,
+        "aspectRatio": 1
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-161.jpg",
+      "page": 162,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-162.jpg",
+      "page": 163,
+      "sizeBytes": 15016,
+      "dimensions": {
+        "width": 1920,
+        "height": 853,
+        "aspectRatio": 2.25
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-163.jpg",
+      "page": 164,
+      "sizeBytes": 445772,
+      "dimensions": {
+        "width": 1200,
+        "height": 819,
+        "aspectRatio": 1.47
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-164.jpg",
+      "page": 165,
+      "sizeBytes": 443476,
+      "dimensions": {
+        "width": 1200,
+        "height": 819,
+        "aspectRatio": 1.47
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-165.jpg",
+      "page": 166,
+      "sizeBytes": 409691,
+      "dimensions": {
+        "width": 1200,
+        "height": 819,
+        "aspectRatio": 1.47
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-166.jpg",
+      "page": 167,
+      "sizeBytes": 231665,
+      "dimensions": {
+        "width": 1200,
+        "height": 819,
+        "aspectRatio": 1.47
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "filename": "image-167.jpg",
+      "page": 168,
+      "sizeBytes": 114962,
+      "dimensions": {
+        "width": 600,
+        "height": 778,
+        "aspectRatio": 0.77
+      },
+      "format": "JPEG",
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ]
+}
